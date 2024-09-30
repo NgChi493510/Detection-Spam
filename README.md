@@ -43,6 +43,7 @@ The evaluation was performed using several metrics:
 - Accuracy
 - F1-Score
 - ROC-AUC (Receiver Operating Characteristic - Area Under Curve)
+
 The experiments showed that CatBoost consistently delivered the best results with the highest accuracy and stability across all phases.
 
 ## Conclusion
